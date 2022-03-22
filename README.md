@@ -49,9 +49,9 @@ University of Manitoba, Winnipeg, MB
 • Conduct independent research on academic honesty practices for the Psychology Students’ Association   
 • Hold Editor-in-Chief position for Psych News newsletter, including supervising a team of editors to meet deadlines   
 • Keep record of Psychology Department news releases for future teams to assist in decision making   
-#### ACTIVITIES & INTERESTS
+#### ACTIVITIES & INTERESTS  
 ---
-Web design, ham radio, hockey, and travelling
+Web design, ham radio, hockey, and travelling  
 ## Instruction
 #### Step 1: Format your resume by markdown editor 
 ![](MyResume.gif) 
