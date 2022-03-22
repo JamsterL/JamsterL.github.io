@@ -28,7 +28,7 @@ Hardware&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: Electronic circuits, computer inst
 **Summer computer scicence student**
 <p align="right">Summer 2019</p>
 Manitoba Telecom Services, Winnipeg Manitoba  
-• Organized staffing and managed production capacity to maximize restaurant efficiency  
+- Organized staffing and managed production capacity to maximize restaurant efficiency  
 • Trained new staff members on standardized procedures to ensure a consistently high level of customer service  
 • Awarded Employee of the Month and commended by supervisor for superior accuracy  
 **Landscape Labourer**
