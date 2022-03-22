@@ -21,16 +21,13 @@ title: "MY RESUME"
 **Bachelor of Science**  
 
 <p align = "right" > September 2018 – Present </p>  
-
 University of Manitoba   
-
-Major: computer science  
-
-Expected date of completion: April 2023  
-Relevant Coursework: Web, C, Java  
-#### COMPUTER SKILLS
----
-Languages&emsp;&emsp;&emsp;: C/C++, Pascal, Java, HTML  
+Major: computer science   
+Expected date of completion: April 2023   
+Relevant Coursework: Web, C, Java   
+#### COMPUTER SKILLS  
+---  
+Languages&emsp;&emsp;&emsp;: C/C++, Pascal, Java, HTML   
 Software&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;: Excel, Word, Power Point, Access, PhotoShop  
 Operating System:  DOS, Windows, UNIX  
 Hardware&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: Electronic circuits, computer installation  
