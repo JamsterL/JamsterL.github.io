@@ -41,8 +41,8 @@ Top Notch Sales, Winnipeg, MB
 #### VOLUNTEER EXPERIENCE
 ---
 **Public Relations Officer** - Psychology Students’ Association    
-University of Manitoba, Winnipeg, MB  
 <p align="right">May 2019 – present</p>
+University of Manitoba, Winnipeg, MB   
 • Conduct independent research on academic honesty practices for the Psychology Students’ Association   
 • Hold Editor-in-Chief position for Psych News newsletter, including supervising a team of editors to meet deadlines   
 • Keep record of Psychology Department news releases for future teams to assist in decision making   
