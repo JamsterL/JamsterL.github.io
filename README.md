@@ -53,21 +53,21 @@ University of Manitoba, Winnipeg, MB
 ---
 Web design, ham radio, hockey, and travelling
 ## Instruction
-####Step 1: Format your resume by markdown editor 
-![](C:\Users\Owner\Desktop\3040\A2\MyResume.gif) 
-####Step 2: Update your resume to github
-####Step 3: Download a theme for your resume
+#### Step 1: Format your resume by markdown editor 
+![](MyResume.gif) 
+#### Step 2: Update your resume to github
+#### Step 3: Download a theme for your resume
 
 
-##More Resources
+## More Resources
 1. [Markdown Tutorial](https://www.markdownguide.org/basic-syntax/) 
 2. [Modern Technical Writing by Andraw Etter](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)  
 3. [An intro to Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)  
-##Authors 
+## Authors 
 Xianfeng Lang - Provided the resume   
-##Acknowledgments
+## Acknowledgments
 Andraw Etter - provided the book "Modern Technical Writing"  
-##FAQs
+## FAQs
 1. **Why is Markdown better than a word processor?**  
 Markdown can present rich text layout effects but is lighter than word processor.  
 2. **Why is my resume not showing up?**  
