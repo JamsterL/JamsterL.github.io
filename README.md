@@ -52,6 +52,7 @@ University of Manitoba, Winnipeg, MB
 #### ACTIVITIES & INTERESTS  
 ---
 Web design, ham radio, hockey, and travelling  
+
 ## Instruction
 #### Step 1: Format your resume by markdown editor 
 ![](MyResume.gif) 
