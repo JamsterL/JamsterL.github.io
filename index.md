@@ -1,4 +1,4 @@
-## <center>Xianfeng Lang</center>   
+## Xianfeng Lang 
 <p align = 'center'>1215 stan bailie road</p>
 <p align = 'center'>Winnipeg, MB R3T 2Z4</p>
 <p align = 'center'>(204)952-6666</p>
