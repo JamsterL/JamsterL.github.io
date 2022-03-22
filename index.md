@@ -1,11 +1,11 @@
 ---
 title: "MY RESUME"
 ---
-<center><big><b>Xianfeng Lang</b></big></center>
-<p align = 'center'>1215 stan bailie road</p>
-<p align = 'center'>Winnipeg, MB R3T 2Z4</p>
-<p align = 'center'>(204)952-6666</p>
-<p align = 'center'>LANGX@myumanitoba.ca</p>   
+<div align='center'><big><b>Xianfeng Lang</b></big></div>
+<p align = 'center'><small>1215 stan bailie road</small></p>
+<p align = 'center'><small>Winnipeg, MB R3T 2Z4</small></p>
+<p align = 'center'><small>(204)952-6666</small></p>
+<p align = 'center'><small>LANGX@myumanitoba.ca</small></p>   
 
 #### Education  
 ---
