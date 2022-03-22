@@ -1,6 +1,3 @@
----
-title: "MY RESUME"
----
 ## <div align='center'><b>Xianfeng Lang</b></div>
 <p align = 'center'>1215 stan bailie road</p>
 <p align = 'center'>Winnipeg, MB R3T 2Z4</p>
