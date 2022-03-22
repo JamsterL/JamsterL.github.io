@@ -8,7 +8,7 @@ Purpose: Describe the practical steps of how to host and format a resume using M
 <p align = 'center'>(204)952-6666</p>
 <p align = 'center'>LANGX@myumanitoba.ca</p>
 
-#### Education
+#### EDUCATION
 
 ---
 
