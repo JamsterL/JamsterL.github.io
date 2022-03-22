@@ -77,9 +77,9 @@ Web design, ham radio, hockey, and travelling
 ## Instruction  
 
 #### Step 1: Format your resume by markdown editor  
-1. Firstly, we need to use word processor to write our resume. This is my word format resume:  
+This is my word format resume:  
 ![MyResume.gif](https://s2.loli.net/2022/03/22/5MEJVfWYNOpUjwr.gif)  
-2. Secondly, we need to transfer our word format resume to markdown format. The Markdown editor that I use is MarkdownPad. This editor is a specialized text editor for Markdown. Also, it is the best Markdown editor that Etter's book mentioned. Under *More Resources*, I post the Markdown tutorial to help you learn how to use it. In addition, my Markdown format resume is under *Prerequisites*.  
+We need to use Markdown editor to write our resume. The Markdown editor that I use is MarkdownPad. This editor is a specialized text editor for Markdown. Also, it is the best Markdown editor that Etter's book mentioned. Under *More Resources*, I post the Markdown tutorial to help you learn how to use it. In addition, my Markdown format resume is under *Prerequisites*.  
 
 ##### The concept in Etter's book  
 * "Use Lightweight Markup" is explained in this step. We use Markdown because it is a lightweight markup. That is easy to write and edit. In Etter's book, there is another way to do this, that is XML. When writing the same thing by XML and Markdown, XML will use four times more number of characters than Markdown. We should use lightweight markup to write our resume more simply to achieve the same effect.
