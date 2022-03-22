@@ -2,7 +2,7 @@
 Purpose: Describe the practical steps of how to host and format a resume using MarkdownPad.  
 ## Prerequisites
 
-<div align='center'><font size='50'>Xianfeng Lang</font></div>
+<div align='center'><font size='70'>Xianfeng Lang</font></div>
 <p align = 'center'>1215 stan bailie road</p>
 <p align = 'center'>Winnipeg, MB R3T 2Z4</p>
 <p align = 'center'>(204)952-6666</p>
