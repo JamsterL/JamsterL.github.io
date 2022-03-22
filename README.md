@@ -8,7 +8,7 @@ Purpose: Describe the practical steps of how to host and format a resume using M
 <p align = 'center'>(204)952-6666</p>
 <p align = 'center'>LANGX@myumanitoba.ca</p>
 
-#### EDUCATION
+### EDUCATION
 
 ---
 
@@ -20,14 +20,14 @@ Major: computer science
 Expected date of completion: April 2023   
 Relevant Coursework: Web, C, Java   
 
-#### COMPUTER SKILLS  
+### COMPUTER SKILLS  
 ---  
 Languages&emsp;&emsp;&emsp;: C/C++, Pascal, Java, HTML   
 Software&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;: Excel, Word, Power Point, Access, PhotoShop  
 Operating System:  DOS, Windows, UNIX  
 Hardware&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;: Electronic circuits, computer installation  
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 ---
 **Summer computer scicence student**
 <p align = "right" > Summer 2019 </p>
@@ -46,7 +46,7 @@ Top Notch Sales, Winnipeg, MB
 • Collaborated with team members to achieve high sales numbers in a high pressure environment  
 • Interacted professionally with customers to determine needs and advise on selections  
 
-#### VOLUNTEER EXPERIENCE
+### VOLUNTEER EXPERIENCE
 ---
 **Public Relations Officer** - Psychology Students’ Association    
 <p align = "right"> May 2019 – present </p>
@@ -55,7 +55,7 @@ University of Manitoba, Winnipeg, MB
 • Hold Editor-in-Chief position for Psych News newsletter, including supervising a team of editors to meet deadlines   
 • Keep record of Psychology Department news releases for future teams to assist in decision making   
 
-#### ACTIVITIES & INTERESTS  
+### ACTIVITIES & INTERESTS  
 ---
 Web design, ham radio, hockey, and travelling  
 
