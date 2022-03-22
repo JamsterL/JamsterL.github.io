@@ -1,9 +1,7 @@
 # How to host and format a resume
 Purpose: Describe the practical steps of how to host and format a resume using MarkdownPad.  
 ## Prerequisites
----
-title: "MY RESUME"
----
+
 <div align = 'center' ><font size = '50'> Xianfeng Lang </font> </div>
 
 <center> 1215 stan bailie road </center>
