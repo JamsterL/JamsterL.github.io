@@ -77,7 +77,7 @@ Web design, ham radio, hockey, and travelling
 ## Instruction  
 
 #### Step 1: Format your resume by markdown editor  
-This is my word format resume:  
+This is my Markdown format resume:  
 ![MyResume.gif](https://s2.loli.net/2022/03/22/5MEJVfWYNOpUjwr.gif)  
 We need to use Markdown editor to write our resume. The Markdown editor that I use is MarkdownPad. This editor is a specialized text editor for Markdown. Also, it is the best Markdown editor that Etter's book mentioned. Under *More Resources*, I post the Markdown tutorial to help you learn how to use it. In addition, my Markdown format resume is under *Prerequisites*.  
 
