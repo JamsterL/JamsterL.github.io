@@ -5,10 +5,15 @@ Purpose: Describe the practical steps of how to host and format a resume using M
 title: "MY RESUME"
 ---
 <div align = 'center' ><font size = '50'> Xianfeng Lang </font> </div>
+
 <center> 1215 stan bailie road </center>
+
 <center> Winnipeg, MB R3T 2Z4 </center>
+
 <center> (204)952-6666 </center>
+
 <center> LANGX@myumanitoba.ca </center>
+
 #### Education
 ---
 **Bachelor of Science**
